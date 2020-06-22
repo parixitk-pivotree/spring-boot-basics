@@ -1,0 +1,5 @@
+
+db:
+   connection: "{connectionTestString: 'www.google-test.com', userName: 'foo', password: 'pass'}"
+   host: 129.0.0.1
+   port: 2400

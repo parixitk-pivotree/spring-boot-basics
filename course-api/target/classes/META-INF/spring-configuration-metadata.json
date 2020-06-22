@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "db",
+      "type": "io.javabrains.springbootstarter.hello.DBSettings",
+      "sourceType": "io.javabrains.springbootstarter.hello.DBSettings"
+    }
+  ],
+  "properties": [
+    {
+      "name": "db.connection",
+      "type": "java.lang.String",
+      "sourceType": "io.javabrains.springbootstarter.hello.DBSettings"
+    },
+    {
+      "name": "db.host",
+      "type": "java.lang.String",
+      "sourceType": "io.javabrains.springbootstarter.hello.DBSettings"
+    },
+    {
+      "name": "db.port",
+      "type": "java.lang.Integer",
+      "sourceType": "io.javabrains.springbootstarter.hello.DBSettings"
+    }
+  ],
+  "hints": []
+}

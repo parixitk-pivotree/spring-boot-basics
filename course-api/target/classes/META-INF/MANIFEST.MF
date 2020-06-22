@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: parixit.kaushal
+Build-Jdk: 11.0.6
+Implementation-Title: Java Brains Course API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.javabrains.springbootquickstart
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/course-api
+Created-By: Maven Integration for Eclipse
+
